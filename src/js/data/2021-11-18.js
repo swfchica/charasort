@@ -22,7 +22,7 @@ dataSet[dataSetVersion].options = [
 	    name: "Rank only Leaders",
 	    key: "leaders",
 	    tooltip: "Check this to rank only the leaders of the 8 dance crews."
-	];
+	]
 	
 
 	dataSet[dataSetVersion].characterData = [
